@@ -1,5 +1,5 @@
 html {
-  font-family: "Cormotant Garamond", serif;
+  font-family: "Cormorant Garamond", serif;
 }
 
 h1,
@@ -21,6 +21,7 @@ h2 {
   border-bottom: .1em solid currentColor;
   color: #fff;
   text-decoration: none;
+  font-weight: 300;
 }
 
 .logo {

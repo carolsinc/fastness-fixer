@@ -1,5 +1,5 @@
 html {
-  font-family: "Garamond", serif;
+  font-family: "Cormotant Garamond", serif;
 }
 
 h1,
@@ -30,13 +30,4 @@ h2 {
 .banner-content {
   color: #fff;
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
-}
-
-  background-color: #fff;
-  transform: translateX(-50%);
-
-  color: #ccc;
-  font-size: .5rem;
-  text-transform: uppercase;
-  font-family: sans-serif;
 }
